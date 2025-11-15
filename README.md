@@ -75,7 +75,7 @@ Calcula el ángulo de movimiento y lo convierte a puntos cardinales (N, NE, E, S
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/fLeonel/fisica_2
 cd velocimetro
 ```
 
@@ -166,6 +166,9 @@ Este proyecto fue desarrollado como parte de un curso de física, aplicando conc
 MIT License
 
 ## 👥 Autor
+- Dennis Ramirez ~ 1800595
+- Jesiel
+- Abimael
 
 Proyecto desarrollado para la universidad
 
